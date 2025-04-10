@@ -4,5 +4,7 @@ This is the final project for my Composing Digital Media class and I created my 
 
 # Images on website
 https://insights.grcglobalgroup.com/societal-stigma-surrounding-community-college/ byShana Soyfer (license: fair use)
+
 https://www.buzzfeed.com/angelicaamartinez/stanley-owala-hydroflask-review Image by Angelica Martinez from BuzzFeed (license: Fair use)
+
 https://www.conceptdraw.com/How-To-Guide/digital-media-marketing by Concept Draw (license: fair use)
