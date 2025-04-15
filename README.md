@@ -2,7 +2,7 @@
 Welcome to my page!
 This is the final project for my Composing Digital Media class, and I’m excited to share my first ever website. On this site, you’ll find two of my earlier projects from the semester: an audio narrative and a video essay. While working on them, I learned how to use new programs like Audacity, Premiere Pro, and Visual Studio Code.
 
-The audio project helped me understand how to edit sound and tell a story through voice and music. The video essay was more challenging, but it taught me a lot about video editing and putting clips together in a way that makes sense. Making this website was completely new to me too, but I enjoyed learning how to build it and add my own style.
+The audio project helped me understand how to edit sound and tell a story through voice and music. The video essay was more challenging, but it taught me a lot about video editing and putting clips together in a way that makes sense. Finally, building this website brought everything together. It was my first time writing code and designing a webpage, and although it was tricky at first, I really enjoyed the process.
 
 All of these projects were steps toward this final product. I’ve learned a lot throughout the course, and this site brings everything together in one place.
 
