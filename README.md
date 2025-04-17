@@ -4,10 +4,10 @@ This is the final project for my Composing Digital Media class, and I’m excite
 
 The audio project helped me understand how to edit sound and tell a story through voice and music. The video essay was more challenging, but it taught me a lot about video editing and putting clips together in a way that makes sense. Finally, building this website brought everything together. It was my first time writing code and designing a webpage, and although it was tricky at first, I really enjoyed the process.
 
-All of these projects were steps toward this final product. I’ve learned a lot throughout the course, and this site brings everything together in one place.
+I put a navigation bar that users can easily click to go to each project or the home/about me page. With each page, there are links and credits for what was included in each project and I also credited the images on the site itself on here. I either attached the content directly or a link to my project that anyone can assess. All of these projects were steps toward this final product. I’ve learned a lot throughout the course and this site brings everything together into one place.
 
 # Images on website
-https://insights.grcglobalgroup.com/societal-stigma-surrounding-community-college/ byShana Soyfer (license: fair use)
+https://www.educationcorner.com/community-colleges-vs-universities/ by Education Corner (license: fair use)
 
 https://www.buzzfeed.com/angelicaamartinez/stanley-owala-hydroflask-review Image by Angelica Martinez from BuzzFeed (license: Fair use)
 
