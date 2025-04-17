@@ -9,18 +9,15 @@ p {
     .myDiv {
         border: 5px outset blueviolet;
         background-color: pink;    
-        text-align: center;
-      }
+        text-align: center;  }
 
     .myDivvideo{
         border: 5px outset blue;
         background-color: greenyellow;    
-        text-align: center;
-    }
+        text-align: center; }
 
     body {
-        background-color: lightcyan;
-      }
+        background-color: lightcyan; }
 
       .navbar {
         width:100%;
@@ -29,27 +26,23 @@ p {
         padding:25px 75px;
         display: flex;
         justify-content: space-between;
-        align-items: center;
-        }
+        align-items: center; }
         
         .navbar ul{
         list-style: none;
         gap:25px;
         display: flex;
         margin: 0;
-        padding: 2px 100px;
-        }
+        padding: 2px 100px;}
         
         .navbar ul li{
         position: relative;
-        color: black
-        }
+        color: black }
         
         .navbar ul li a{
         text-decoration: none;
         font-size: 18px;
-        color: black;
-        }
+        color: black;}
 
         body {font-size: 1 em}
 
@@ -58,8 +51,10 @@ p {
         h2 { font-size: 1.25 em}
 
         .image {
-            text-align: center;
-        }
+            text-align: center;}
+
+h2 {text-align: center}
+h1 {text-align: center}
 
 
         
